@@ -1,0 +1,38 @@
+body.fondo{
+    background: rgb(252, 177, 164);
+}
+
+h1.titulo{
+    color: blue;
+    text-align: center;
+}
+
+p.bitcoin{
+    position: relative;
+    left: 75%;
+}
+
+p.etherum{
+    position: relative;
+    left: 64%;
+}
+
+p.litecoin{
+    position: relative;
+    left: 22%;
+
+}
+
+div.div1{
+    background-color: white;
+}
+
+span.nombre{
+    color: red;
+}
+
+
+p.resaltado{
+    background-color: yellow;
+    text-align: center;
+}
